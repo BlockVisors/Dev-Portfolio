@@ -29,7 +29,7 @@ const AboutPage = (props, context) => {
               i am focused on building the future.
             </p>
             <p>
-              My goal is the build useful applications that solve{' '}
+              My goal is the build the best applications that solve{' '}
               <span className="highlight"> real Problems</span>. I think that working with open-source 
               communities within this space is important.. I also like to{' '}
               <span className="highlight">teach</span> what I learn to others. Thus, we have built
